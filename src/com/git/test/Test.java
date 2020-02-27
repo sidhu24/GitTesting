@@ -7,7 +7,7 @@ public class Test {
 
 
 		System.out.println("Hello world.......n................................");
-		System.out.println("Hello world.......n......................merge1");
+		System.out.println("Hello world.......n......................mergeconflitst resolve");
 
 	}
 
